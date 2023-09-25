@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Souvik Pramanik</h1>
 <h3 align="center">Final Year CSE student, interested in Cyber Security & Data Analysis.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2j_idi_3TPGgpN_qm2DDRS&ust=1695761387063000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKC92crRxoEDFQAAAAAdAAAAABBL">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=souvik-pramanik)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-pramanik&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-pramanik" /> </p>
 
