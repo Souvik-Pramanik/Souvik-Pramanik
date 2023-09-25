@@ -1,4 +1,4 @@
-![logo](https://github.com/Souvik-Pramanik/Souvik-Pramanik/blob/main/Snaptokon.png)
+![logo](https://github.com/Souvik-Pramanik/Souvik-Pramanik/blob/main/97x58PICrfp5912fqfjc3_PIC2018.png_300-fotor-202309263361.png)
 
 <h1 align="center">Hi 👋, I'm Souvik Pramanik</h1>
 <h3 align="center">Final Year CSE student, interested in Cyber Security & Data Analysis.</h3>
