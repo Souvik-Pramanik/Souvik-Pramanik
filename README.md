@@ -1,3 +1,5 @@
+![logo](https://github.com/Souvik-Pramanik/Souvik-Pramanik/blob/main/Snaptokon.png)
+
 <h1 align="center">Hi 👋, I'm Souvik Pramanik</h1>
 <h3 align="center">Final Year CSE student, interested in Cyber Security & Data Analysis.</h3>
 
