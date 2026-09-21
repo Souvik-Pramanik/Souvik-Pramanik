@@ -20,7 +20,7 @@
 ┌──────────────────────────────────────────────────────────────┐
 │  SYSTEM STATUS                                               │
 │                                                              │
-│  ● AVAILABLE     ● BUILDING     ● AUTOMATING                │
+│  ● AVAILABLE     ● BUILDING     ● AUTOMATING                 │
 │                                                              │
 │  PRIMARY DOMAIN                                              │
 │  Cloud • DevOps • Infrastructure • CI/CD • Automation        │
@@ -196,7 +196,7 @@ My cloud engineering focus is centered around:
                          ▼
                   ┌──────────────┐
                   │   CI / TEST  │
-                  │ GitHub Actions│
+                  │GitHub Actions│
                   └──────┬───────┘
                          │
                          ▼
@@ -322,11 +322,11 @@ Automation-focused projects involving:
 │                                                              │
 │  COMMITS              → Continuous engineering activity      │
 │  PULL REQUESTS        → Collaboration & delivery             │
-│  ISSUES               → Problem solving                       │
+│  ISSUES               → Problem solving                      │
 │  DISCUSSIONS          → Technical participation              │
-│  REPOSITORIES         → Projects & experiments                │
-│  CONTRIBUTIONS        → Overall GitHub activity               │
-│  ACHIEVEMENTS         → GitHub milestones                      │
+│  REPOSITORIES         → Projects & experiments               │
+│  CONTRIBUTIONS        → Overall GitHub activity              │
+│  ACHIEVEMENTS         → GitHub milestones                    │
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
@@ -346,14 +346,14 @@ My GitHub contribution graph provides a year-long view of development activity.
 ```text
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│  ☸ Kubernetes                                                │
-│  🏗 Terraform                                                 │
-│  ⚙️ Ansible                                                   │
-│  📊 Prometheus                                                │
-│  📈 Grafana                                                   │
-│  🔐 DevSecOps                                                 │
-│  ☁️ Advanced Cloud Architecture                               │
-│  🔄 Advanced CI/CD                                            │
+│  ☸ Kubernetes                                               │
+│  🏗 Terraform                                                │
+│  ⚙️ Ansible                                                  │
+│  📊 Prometheus                                               │
+│  📈 Grafana                                                  │
+│  🔐 DevSecOps                                                │
+│  ☁️ Advanced Cloud Architecture                              │
+│  🔄 Advanced CI/CD                                           │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
