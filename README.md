@@ -1,4 +1,4 @@
-<center>![logo](https://github.com/Souvik-Pramanik/Souvik-Pramanik/blob/main/banner.png)</center>
+![logo](https://github.com/Souvik-Pramanik/Souvik-Pramanik/blob/main/banner.png)
 
 <div align="center">
 
