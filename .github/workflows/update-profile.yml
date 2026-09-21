@@ -1,0 +1,42 @@
+name: Update GitHub Profile
+
+on:
+schedule:
+# Run once every day
+- cron: "17 0 * * *"
+
+workflow_dispatch:
+
+permissions:
+contents: write
+
+jobs:
+update-profile:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout profile repository
+    uses: actions/checkout@v4
+
+  - name: Configure Git
+    run: |
+      git config user.name "github-actions[bot]"
+      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+  - name: Update timestamp
+    run: |
+      echo "Profile automation executed at $(date -u)" > .profile-update
+
+  - name: Commit changes
+    run: |
+      git add .profile-update
+
+      if git diff --cached --quiet; then
+        echo "No changes detected."
+        exit 0
+      fi
+
+      git commit -m "chore: update profile activity"
+      git push
+```
