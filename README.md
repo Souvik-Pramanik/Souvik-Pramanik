@@ -96,7 +96,21 @@ alt="Souvik Pramanik Engineering Intelligence">
 > Repository and technology signals are generated automatically from public GitHub data.
 
 ---
-# `05 // ENGINEERING STACK`
+# `05 // REPOSITORY HEALTH`
+
+<div align="center">
+
+<img
+  src="./assets/repository-health.svg"
+  width="100%"
+  alt="Souvik Pramanik Repository Health Matrix">
+
+</div>
+
+> Repository engineering signals are generated automatically from public GitHub repository metadata and contents.
+
+---
+# `06 // ENGINEERING STACK`
 
 ### ☁️ Cloud
 
@@ -154,7 +168,7 @@ alt="Souvik Pramanik Engineering Intelligence">
 
 ---
 
-# `06 // DEVOPS OPERATING MODEL`
+# `07 // DEVOPS OPERATING MODEL`
 
 ```text
                         SOURCE CODE
@@ -194,7 +208,7 @@ alt="Souvik Pramanik Engineering Intelligence">
 
 ---
 
-# `07 // FEATURED ENGINEERING`
+# `08 // FEATURED ENGINEERING`
 
 ### 🐳 DevOps Portfolio Platform
 
@@ -246,7 +260,7 @@ Web application demonstrating frontend development, API integration and deployme
 
 ---
 
-# `08 // GITHUB ACTIVITY`
+# `09 // GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -276,7 +290,7 @@ Web application demonstrating frontend development, API integration and deployme
 
 ---
 
-# `09 // DEVELOPMENT SIGNALS`
+# `10 // DEVELOPMENT SIGNALS`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
@@ -300,7 +314,7 @@ For the complete native activity timeline and contribution history:
 
 ---
 
-# `10 // CURRENTLY EXPLORING`
+# `11 // CURRENTLY EXPLORING`
 
 ```text
 ☸   Kubernetes
@@ -315,7 +329,7 @@ For the complete native activity timeline and contribution history:
 
 ---
 
-# `11 // ENGINEERING PHILOSOPHY`
+# `12 // ENGINEERING PHILOSOPHY`
 
 **01 — AUTOMATE**
 Remove repetitive operational work.
@@ -337,7 +351,7 @@ Every deployment, failure and experiment should improve the system.
 
 ---
 
-# `12 // BEYOND DEVOPS`
+# `13 // BEYOND DEVOPS`
 
 My broader technical work has included:
 
@@ -347,7 +361,7 @@ These areas provide a broader understanding of how **applications, infrastructur
 
 ---
 
-# `13 // ENGINEERING ROADMAP`
+# `14 // ENGINEERING ROADMAP`
 
 ```text
 CLOUD
@@ -375,7 +389,7 @@ PRODUCTION SYSTEMS
 
 ---
 
-# `14 // CONNECT`
+# `15 // CONNECT`
 
 <div align="center">
 

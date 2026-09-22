@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="696"
+  viewBox="0 0 1200 696"
+>
+  <rect
+    width="100%"
+    height="100%"
+    rx="18"
+    fill="#0d1117"
+    stroke="#30363d"
+  />
+
+  <!-- Header -->
+
+  <text
+    x="36"
+    y="38"
+    fill="#00ff9d"
+    font-size="13"
+    font-family="monospace"
+    letter-spacing="2"
+  >REPOSITORY HEALTH MATRIX</text>
+
+  <text
+    x="36"
+    y="70"
+    fill="#8b949e"
+    font-size="14"
+    font-family="monospace"
+  >Automated repository engineering signals</text>
+
+  <text
+    x="1164"
+    y="40"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="end"
+    font-family="monospace"
+  >PUBLIC GITHUB DATA</text>
+
+  <text
+    x="1164"
+    y="67"
+    fill="#00ff9d"
+    font-size="13"
+    text-anchor="end"
+    font-family="monospace"
+  >24 REPOSITORIES</text>
+
+  <!-- Table Header -->
+
+  <rect
+    x="24"
+    y="88"
+    width="1152"
+    height="42"
+    rx="8"
+    fill="#161b22"
+  />
+
+  <text
+    x="36"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    font-family="monospace"
+  >REPOSITORY</text>
+
+  <text
+    x="500"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >README</text>
+
+  <text
+    x="610"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >CI/CD</text>
+
+  <text
+    x="720"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >DOCKER</text>
+
+  <text
+    x="830"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >TESTS</text>
+
+  <text
+    x="960"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >PACKAGE</text>
+
+  <text
+    x="1080"
+    y="115"
+    fill="#8b949e"
+    font-size="12"
+    text-anchor="middle"
+    font-family="monospace"
+  >LICENSE</text>
+
+  
+        <g>
+          <line
+            x1="36"
+            y1="164"
+            x2="1164"
+            y2="164"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="143"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >Souvik-Pramanik</text>
+
+          <text
+            x="500"
+            y="143"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="610"
+            y="143"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="720"
+            y="143"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="143"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="143"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="143"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="216"
+            x2="1164"
+            y2="216"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="195"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >devops-portfolio-platform</text>
+
+          <text
+            x="500"
+            y="195"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="610"
+            y="195"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="720"
+            y="195"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="830"
+            y="195"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="960"
+            y="195"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="1080"
+            y="195"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="268"
+            x2="1164"
+            y2="268"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="247"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >demo-school-website</text>
+
+          <text
+            x="500"
+            y="247"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="610"
+            y="247"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="247"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="247"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="247"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="247"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="320"
+            x2="1164"
+            y2="320"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="299"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >souvik-pramanik.github.io</text>
+
+          <text
+            x="500"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="299"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="372"
+            x2="1164"
+            y2="372"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="351"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >hand-gesture-controlled-computer</text>
+
+          <text
+            x="500"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="351"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="424"
+            x2="1164"
+            y2="424"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="403"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >Birthday-WebApp</text>
+
+          <text
+            x="500"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="403"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="476"
+            x2="1164"
+            y2="476"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="455"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >cloud_bootcamp_day4</text>
+
+          <text
+            x="500"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="455"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="528"
+            x2="1164"
+            y2="528"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="507"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >HLD-LLD</text>
+
+          <text
+            x="500"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="507"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="580"
+            x2="1164"
+            y2="580"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="559"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >Quantum-Image-Processing</text>
+
+          <text
+            x="500"
+            y="559"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="559"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="559"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="559"
+            fill="#00ff9d"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >✓</text>
+
+          <text
+            x="960"
+            y="559"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="559"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+        <g>
+          <line
+            x1="36"
+            y1="632"
+            x2="1164"
+            y2="632"
+            stroke="#20242c"
+          />
+
+          <text
+            x="36"
+            y="611"
+            fill="#e6edf3"
+            font-size="15"
+            font-family="monospace"
+          >Ani-Weather-App</text>
+
+          <text
+            x="500"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="610"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="720"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="830"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="960"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+
+          <text
+            x="1080"
+            y="611"
+            fill="#555b66"
+            font-size="18"
+            text-anchor="middle"
+            font-family="monospace"
+          >—</text>
+        </g>
+      
+
+  <!-- Summary -->
+
+  <line
+    x1="36"
+    y1="636"
+    x2="1164"
+    y2="636"
+    stroke="#30363d"
+  />
+
+  <text
+    x="36"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >README 3/24</text>
+
+  <text
+    x="170"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >CI/CD 2/24</text>
+
+  <text
+    x="310"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >DOCKER 1/24</text>
+
+  <text
+    x="465"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >TESTS 3/24</text>
+
+  <text
+    x="600"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >PACKAGE 1/24</text>
+
+  <text
+    x="750"
+    y="666"
+    fill="#8b949e"
+    font-size="11"
+    font-family="monospace"
+  >LICENSE 0/24</text>
+
+  <text
+    x="1164"
+    y="666"
+    fill="#555b66"
+    font-size="10"
+    text-anchor="end"
+    font-family="monospace"
+  >UPDATED 2026-09-22</text>
+</svg>

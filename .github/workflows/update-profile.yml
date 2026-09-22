@@ -9,38 +9,59 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: github-profile-update
+  cancel-in-progress: true
+
 jobs:
   update-profile:
     name: Generate Profile Intelligence
     runs-on: ubuntu-latest
 
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 22
 
+      - name: Verify Node.js
+        run: |
+          node --version
+          npm --version
+
       - name: Generate GitHub telemetry
-        run: node scripts/update-profile.mjs
+        run: |
+          node scripts/update-profile.mjs
 
       - name: Generate engineering intelligence
-        run: node scripts/generate-intelligence.mjs
+        run: |
+          node scripts/generate-intelligence.mjs
+
+      - name: Generate repository health
+        run: |
+          node scripts/generate-health.mjs
 
       - name: Check generated files
         id: changes
         run: |
           git add assets/github-metrics.svg
           git add assets/engineering-intelligence.svg
+          git add assets/repository-health.svg
 
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No profile changes detected."
+            echo "No generated profile changes detected."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Profile data changed."
+            echo "Generated profile assets changed."
           fi
 
       - name: Commit profile updates
@@ -50,4 +71,10 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git commit -m "chore: update GitHub profile intelligence"
+
           git push
+
+      - name: No changes
+        if: steps.changes.outputs.changed == 'false'
+        run: |
+          echo "Profile is already up to date."
