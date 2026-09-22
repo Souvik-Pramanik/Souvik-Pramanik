@@ -82,8 +82,21 @@ RELIABILITY
 > Automatically generated from public GitHub repository and profile data.
 
 ---
+# `04 // ENGINEERING INTELLIGENCE`
 
-# `04 // ENGINEERING STACK`
+<div align="center">
+
+<img
+src="./assets/engineering-intelligence.svg"
+width="100%"
+alt="Souvik Pramanik Engineering Intelligence">
+
+</div>
+
+> Repository and technology signals are generated automatically from public GitHub data.
+
+---
+# `05 // ENGINEERING STACK`
 
 ### ☁️ Cloud
 
@@ -141,7 +154,7 @@ RELIABILITY
 
 ---
 
-# `05 // DEVOPS OPERATING MODEL`
+# `06 // DEVOPS OPERATING MODEL`
 
 ```text
                         SOURCE CODE
@@ -181,7 +194,7 @@ RELIABILITY
 
 ---
 
-# `06 // FEATURED ENGINEERING`
+# `07 // FEATURED ENGINEERING`
 
 ### 🐳 DevOps Portfolio Platform
 
@@ -233,7 +246,7 @@ Web application demonstrating frontend development, API integration and deployme
 
 ---
 
-# `07 // GITHUB ACTIVITY`
+# `08 // GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -263,11 +276,11 @@ Web application demonstrating frontend development, API integration and deployme
 
 ---
 
-# `08 // ENGINEERING SIGNALS`
+# `09 // DEVELOPMENT SIGNALS`
 
 ```text
 ┌─────────────────────────────────────────────────────────────┐
-│                   ENGINEERING SIGNALS                       │
+│                   DEVELOPMENT SIGNALS                       │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
 │  COMMITS        → Implementation activity                   │
@@ -287,7 +300,7 @@ For the complete native activity timeline and contribution history:
 
 ---
 
-# `09 // CURRENTLY EXPLORING`
+# `10 // CURRENTLY EXPLORING`
 
 ```text
 ☸   Kubernetes
@@ -302,7 +315,7 @@ For the complete native activity timeline and contribution history:
 
 ---
 
-# `10 // ENGINEERING PRINCIPLES`
+# `11 // ENGINEERING PHILOSOPHY`
 
 **01 — AUTOMATE**
 Remove repetitive operational work.
@@ -324,7 +337,7 @@ Every deployment, failure and experiment should improve the system.
 
 ---
 
-# `11 // BEYOND DEVOPS`
+# `12 // BEYOND DEVOPS`
 
 My broader technical work has included:
 
@@ -334,7 +347,7 @@ These areas provide a broader understanding of how **applications, infrastructur
 
 ---
 
-# `12 // ENGINEERING ROADMAP`
+# `13 // ENGINEERING ROADMAP`
 
 ```text
 CLOUD
@@ -362,7 +375,7 @@ PRODUCTION SYSTEMS
 
 ---
 
-# `13 // CONNECT`
+# `14 // CONNECT`
 
 <div align="center">
 

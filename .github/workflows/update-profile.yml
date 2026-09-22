@@ -11,7 +11,7 @@ permissions:
 
 jobs:
   update-profile:
-    name: Generate Profile Telemetry
+    name: Generate Profile Intelligence
     runs-on: ubuntu-latest
 
     steps:
@@ -26,24 +26,28 @@ jobs:
       - name: Generate GitHub telemetry
         run: node scripts/update-profile.mjs
 
-      - name: Check for changes
+      - name: Generate engineering intelligence
+        run: node scripts/generate-intelligence.mjs
+
+      - name: Check generated files
         id: changes
         run: |
           git add assets/github-metrics.svg
+          git add assets/engineering-intelligence.svg
 
           if git diff --cached --quiet; then
             echo "changed=false" >> "$GITHUB_OUTPUT"
-            echo "No telemetry changes detected."
+            echo "No profile changes detected."
           else
             echo "changed=true" >> "$GITHUB_OUTPUT"
-            echo "Telemetry changed."
+            echo "Profile data changed."
           fi
 
-      - name: Commit and push
+      - name: Commit profile updates
         if: steps.changes.outputs.changed == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git commit -m "chore: update GitHub profile telemetry"
+          git commit -m "chore: update GitHub profile intelligence"
           git push

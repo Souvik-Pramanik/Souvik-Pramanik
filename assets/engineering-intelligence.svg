@@ -1,0 +1,539 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="1200"
+  height="760"
+  viewBox="0 0 1200 760">
+
+  <defs>
+
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="1"
+      y2="1">
+
+      <stop
+        offset="0%"
+        stop-color="#05070A"/>
+
+      <stop
+        offset="100%"
+        stop-color="#0D1117"/>
+
+    </linearGradient>
+
+    <linearGradient
+      id="accent"
+      x1="0"
+      x2="1">
+
+      <stop
+        offset="0%"
+        stop-color="#58A6FF"/>
+
+      <stop
+        offset="50%"
+        stop-color="#A371F7"/>
+
+      <stop
+        offset="100%"
+        stop-color="#3FB950"/>
+
+    </linearGradient>
+
+  </defs>
+
+  <rect
+    width="1200"
+    height="760"
+    rx="20"
+    fill="url(#background)"
+    stroke="#30363D"/>
+
+  <!-- HEADER -->
+
+  <text
+    x="60"
+    y="55"
+    font-family="monospace"
+    font-size="24"
+    font-weight="bold"
+    fill="#F0F6FC">
+
+    ENGINEERING INTELLIGENCE
+
+  </text>
+
+  <text
+    x="60"
+    y="82"
+    font-family="monospace"
+    font-size="12"
+    fill="#8B949E">
+
+    LIVE PUBLIC GITHUB ANALYSIS
+
+  </text>
+
+  <line
+    x1="60"
+    y1="105"
+    x2="1140"
+    y2="105"
+    stroke="#30363D"/>
+
+  <!-- SIGNAL CARDS -->
+
+  <rect
+    x="60"
+    y="130"
+    width="240"
+    height="105"
+    rx="12"
+    fill="#010409"
+    stroke="#30363D"/>
+
+  <text
+    x="80"
+    y="160"
+    font-family="monospace"
+    font-size="12"
+    fill="#8B949E">
+
+    PUBLIC REPOSITORIES
+
+  </text>
+
+  <text
+    x="80"
+    y="205"
+    font-family="monospace"
+    font-size="32"
+    font-weight="bold"
+    fill="#58A6FF">
+
+    24
+
+  </text>
+
+  <rect
+    x="325"
+    y="130"
+    width="240"
+    height="105"
+    rx="12"
+    fill="#010409"
+    stroke="#30363D"/>
+
+  <text
+    x="345"
+    y="160"
+    font-family="monospace"
+    font-size="12"
+    fill="#8B949E">
+
+    FOLLOWERS
+
+  </text>
+
+  <text
+    x="345"
+    y="205"
+    font-family="monospace"
+    font-size="32"
+    font-weight="bold"
+    fill="#A371F7">
+
+    6
+
+  </text>
+
+  <rect
+    x="590"
+    y="130"
+    width="240"
+    height="105"
+    rx="12"
+    fill="#010409"
+    stroke="#30363D"/>
+
+  <text
+    x="610"
+    y="160"
+    font-family="monospace"
+    font-size="12"
+    fill="#8B949E">
+
+    STARS
+
+  </text>
+
+  <text
+    x="610"
+    y="205"
+    font-family="monospace"
+    font-size="32"
+    font-weight="bold"
+    fill="#3FB950">
+
+    7
+
+  </text>
+
+  <rect
+    x="855"
+    y="130"
+    width="285"
+    height="105"
+    rx="12"
+    fill="#010409"
+    stroke="#30363D"/>
+
+  <text
+    x="875"
+    y="160"
+    font-family="monospace"
+    font-size="12"
+    fill="#8B949E">
+
+    FORKS / OPEN ISSUES
+
+  </text>
+
+  <text
+    x="875"
+    y="205"
+    font-family="monospace"
+    font-size="26"
+    font-weight="bold"
+    fill="#F0883E">
+
+    1 / 1
+
+  </text>
+
+  <!-- RECENTLY UPDATED -->
+
+  <text
+    x="60"
+    y="290"
+    font-family="monospace"
+    font-size="18"
+    font-weight="bold"
+    fill="#F0F6FC">
+
+    RECENTLY UPDATED
+
+  </text>
+
+  <line
+    x1="60"
+    y1="310"
+    x2="1140"
+    y2="310"
+    stroke="#30363D"/>
+
+  
+      <text
+        x="70"
+        y="405"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        Souvik-Pramanik
+      </text>
+
+      <text
+        x="500"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        JavaScript
+      </text>
+
+      <text
+        x="700"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 1
+      </text>
+
+      <text
+        x="810"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="443"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        devops-portfolio-platform
+      </text>
+
+      <text
+        x="500"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        HTML
+      </text>
+
+      <text
+        x="700"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
+      </text>
+
+      <text
+        x="810"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="481"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        demo-school-website
+      </text>
+
+      <text
+        x="500"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        HTML
+      </text>
+
+      <text
+        x="700"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
+      </text>
+
+      <text
+        x="810"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="519"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        souvik-pramanik.github.io
+      </text>
+
+      <text
+        x="500"
+        y="519"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        HTML
+      </text>
+
+      <text
+        x="700"
+        y="519"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
+      </text>
+
+      <text
+        x="810"
+        y="519"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+
+  <!-- LANGUAGES -->
+
+  <text
+    x="655"
+    y="565"
+    font-family="monospace"
+    font-size="18"
+    font-weight="bold"
+    fill="#F0F6FC">
+
+    TECHNOLOGY SIGNALS
+
+  </text>
+
+  
+      <text
+        x="655"
+        y="590"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        HTML
+      </text>
+
+      <text
+        x="910"
+        y="590"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        8 repositories
+      </text>
+    
+      <text
+        x="655"
+        y="615"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        Python
+      </text>
+
+      <text
+        x="910"
+        y="615"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        4 repositories
+      </text>
+    
+      <text
+        x="655"
+        y="640"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        JavaScript
+      </text>
+
+      <text
+        x="910"
+        y="640"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        3 repositories
+      </text>
+    
+      <text
+        x="655"
+        y="665"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        Jupyter Notebook
+      </text>
+
+      <text
+        x="910"
+        y="665"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        2 repositories
+      </text>
+    
+      <text
+        x="655"
+        y="690"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        C++
+      </text>
+
+      <text
+        x="910"
+        y="690"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        1 repositories
+      </text>
+    
+      <text
+        x="655"
+        y="715"
+        font-family="monospace"
+        font-size="13"
+        fill="#8B949E">
+        CSS
+      </text>
+
+      <text
+        x="910"
+        y="715"
+        font-family="monospace"
+        font-size="13"
+        fill="#58A6FF">
+        1 repositories
+      </text>
+    
+
+  <!-- FOOTER -->
+
+  <line
+    x1="60"
+    y1="725"
+    x2="1140"
+    y2="725"
+    stroke="#30363D"/>
+
+  <text
+    x="60"
+    y="747"
+    font-family="monospace"
+    font-size="10"
+    fill="#484F58">
+
+    SOURCE: GITHUB PUBLIC API
+
+  </text>
+
+  <text
+    x="1140"
+    y="747"
+    text-anchor="end"
+    font-family="monospace"
+    font-size="10"
+    fill="#3FB950">
+
+    ● AUTOMATED · 2026-09-22T04:29:18.714Z
+
+  </text>
+
+</svg>
