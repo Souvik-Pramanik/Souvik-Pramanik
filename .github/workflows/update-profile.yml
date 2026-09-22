@@ -11,6 +11,7 @@ permissions:
 
 jobs:
   update-profile:
+    name: Generate Profile Telemetry
     runs-on: ubuntu-latest
 
     steps:
@@ -25,19 +26,24 @@ jobs:
       - name: Generate GitHub telemetry
         run: node scripts/update-profile.mjs
 
-      - name: Configure Git
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-      - name: Commit telemetry
+      - name: Check for changes
+        id: changes
         run: |
           git add assets/github-metrics.svg
 
           if git diff --cached --quiet; then
+            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No telemetry changes detected."
-            exit 0
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+            echo "Telemetry changed."
           fi
+
+      - name: Commit and push
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git commit -m "chore: update GitHub profile telemetry"
           git push
