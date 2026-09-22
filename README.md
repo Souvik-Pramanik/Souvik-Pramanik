@@ -1,463 +1,394 @@
 <div align="center">
 
-# `SOUVIK PRAMANIK`
+<img src="./assets/hero.svg" width="100%" alt="Souvik Pramanik — Cloud & DevOps Engineer">
 
-### `CLOUD & DEVOPS ENGINEER`
+<br><br>
 
-**Cloud Infrastructure · Automation · CI/CD · Containers · Linux**
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Souvik--Pramanik-181717?style=for-the-badge\&logo=github)](https://github.com/Souvik-Pramanik)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nukebyte-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/nukebyte/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://souvik-pramanik.github.io/)
-
-<br>
-
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│                                                                    │
-│                     S O U V I K   / /   0 1                       │
-│                                                                    │
-│                 CLOUD & DEVOPS ENGINEER                            │
-│                                                                    │
-│       BUILD  →  AUTOMATE  →  DEPLOY  →  OBSERVE  →  IMPROVE       │
-│                                                                    │
-│                 ● SYSTEMS UNDER ACTIVE DEVELOPMENT                │
-│                                                                    │
-└────────────────────────────────────────────────────────────────────┘
-```
+<a href="https://github.com/Souvik-Pramanik">
+  <img src="https://img.shields.io/badge/GitHub-Souvik--Pramanik-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/nukebyte/">
+  <img src="https://img.shields.io/badge/LinkedIn-Nukebyte-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://souvik-pramanik.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+</a>
 
 </div>
 
 ---
 
-# `01 / ENGINEERING PROFILE`
+# `01 // SYSTEM PROFILE`
 
 ```yaml
-engineer:
-  name: "Souvik Pramanik"
-  handle: "Snaptokon"
-  role: "Cloud & DevOps Engineer"
+name: Souvik Pramanik
+handle: Snaptokon
+role: Cloud & DevOps Engineer
 
-primary_focus:
+focus:
   - Cloud Infrastructure
   - DevOps Engineering
   - CI/CD Automation
   - Containerization
   - Infrastructure as Code
   - Linux & Systems
-  - Cloud-native Engineering
   - Monitoring & Observability
-
-engineering_mindset:
-  automate: true
-  reproduce: true
-  observe: true
-  secure: true
-  continuously_improve: true
 ```
 
-I build and experiment with systems across **cloud infrastructure, automation, Linux, containers, CI/CD and application delivery**.
+I work across **cloud infrastructure, automation, Linux systems, containers and CI/CD**, with an increasing focus on building reproducible and observable engineering systems.
 
-My current engineering direction is focused on moving from application development toward **reliable, automated and reproducible infrastructure**.
-
-> **The objective is not to collect tools.
-> The objective is to understand systems.**
+> **Build → Automate → Deploy → Observe → Improve**
 
 ---
 
-# `02 / CURRENTLY BUILDING`
+# `02 // CURRENT MISSION`
 
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│                     🚧 ACTIVE DEVELOPMENT                          │
-│                                                                    │
-│                    DEVOPS PORTFOLIO PLATFORM                       │
-│                                                                    │
-│  Containerization      █████████████████░░                         │
-│  Testing               ███████████████░░░                         │
-│  CI/CD                 █████████████░░░░░                         │
-│  Infrastructure        ███████████░░░░░░                         │
-│  Observability         █████████░░░░░░░░                         │
-│                                                                    │
-│                    STATUS: BUILDING                               │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+APPLICATION
+     │
+     ▼
+CONTAINERIZATION
+     │
+     ▼
+CI / CD
+     │
+     ▼
+INFRASTRUCTURE
+     │
+     ▼
+ORCHESTRATION
+     │
+     ▼
+OBSERVABILITY
+     │
+     ▼
+RELIABILITY
 ```
 
-### Current engineering priorities
+### Current engineering focus
 
-* Containerized application delivery
-* CI/CD automation
-* Cloud deployment
-* Infrastructure as Code
-* Kubernetes
-* Monitoring and observability
-* DevSecOps practices
+`Cloud Infrastructure` · `Docker` · `Kubernetes` · `CI/CD` · `Terraform` · `Linux` · `Automation` · `Observability` · `DevSecOps`
 
 ---
 
-# `03 / CLOUD`
+# `03 // LIVE GITHUB TELEMETRY`
 
-### AWS
+<div align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="./assets/github-metrics.svg" width="100%" alt="Souvik Pramanik GitHub Telemetry">
+
+</div>
+
+> Automatically generated from public GitHub repository and profile data.
+
+---
+
+# `04 // ENGINEERING STACK`
+
+### ☁️ Cloud
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,azure" alt="AWS and Azure">
 </p>
+
+**AWS**
 
 `EC2` · `S3` · `IAM` · `Lambda` · `ECS` · `EKS` · `CloudWatch`
 
-### Microsoft Azure
+**Azure**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure" />
-</p>
+`Compute` · `Storage` · `Cloud Infrastructure`
 
-Cloud infrastructure · Compute · Storage · Platform services
+### 🐳 Containers & Orchestration
 
----
-
-# `04 / DEVOPS STACK`
-
-### Containers & Orchestration
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" alt="Docker and Kubernetes">
 </p>
 
 `Docker` · `Docker Compose` · `Kubernetes`
 
-### CI/CD
+### 🔄 CI/CD
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=githubactions,jenkins" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,jenkins" alt="GitHub Actions and Jenkins">
 </p>
 
 `GitHub Actions` · `Jenkins`
 
-### Infrastructure as Code
+### 🏗️ Infrastructure as Code
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=terraform,ansible" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" alt="Terraform and Ansible">
 </p>
 
 `Terraform` · `Ansible`
 
-### Systems & Automation
+### 🐧 Systems & Automation
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,python,nginx" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,git,github,nginx" alt="Systems and Automation Stack">
 </p>
 
-`Linux` · `Bash` · `Python` · `Nginx` · `Networking`
+`Linux` · `Bash` · `Python` · `Git` · `GitHub` · `Nginx` · `Networking`
 
-### Observability
+### 📊 Observability
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana" alt="Prometheus and Grafana">
 </p>
 
 `Prometheus` · `Grafana` · `CloudWatch`
 
 ---
 
-# `05 / ENGINEERING WORKFLOW`
+# `05 // DEVOPS OPERATING MODEL`
 
 ```text
-                         ┌───────────────┐
-                         │     CODE      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     GIT       │
-                         │    GITHUB     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   CI / TEST   │
-                         │    ACTIONS    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     BUILD     │
-                         │    DOCKER     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │      DEPLOY       │
-                       │    AWS / AZURE    │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │    CONTAINERS     │
-                       │  ECS / KUBERNETES │
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │    OBSERVE        │
-                       │ Prometheus/Grafana│
-                       └─────────┬─────────┘
-                                 │
-                                 ▼
-                       ┌───────────────────┐
-                       │     IMPROVE       │
-                       └─────────┬─────────┘
-                                 │
-                                 └──────────────► LOOP
+                        SOURCE CODE
+                             │
+                             ▼
+                           GIT
+                             │
+                             ▼
+                      CI / AUTOMATION
+                             │
+                             ▼
+                           TEST
+                             │
+                             ▼
+                          BUILD
+                             │
+                             ▼
+                          DOCKER
+                             │
+                             ▼
+                       CLOUD DEPLOY
+                      AWS / AZURE
+                             │
+                             ▼
+                       ORCHESTRATION
+                     KUBERNETES / ECS
+                             │
+                             ▼
+                       OBSERVABILITY
+                  PROMETHEUS / GRAFANA
+                             │
+                             ▼
+                         IMPROVE
+                             │
+                             └──────────► LOOP
 ```
 
 ---
 
-# `06 / FEATURED PROJECTS`
+# `06 // FEATURED ENGINEERING`
 
-## 🐳 DevOps Portfolio Platform
+### 🐳 DevOps Portfolio Platform
 
-A DevOps-focused engineering platform demonstrating application development together with containerization, automated testing and delivery workflows.
+A DevOps-focused engineering platform for demonstrating application delivery, containerization, automated testing and CI/CD workflows.
 
-**Technology**
+**Stack:** `Node.js` · `Docker` · `Jest` · `GitHub Actions`
 
-`Node.js` · `Docker` · `Jest` · `GitHub Actions` · `CI/CD`
-
-🔗 **Repository:**
-https://github.com/Souvik-Pramanik/devops-portfolio-platform
+[View repository](https://github.com/Souvik-Pramanik/devops-portfolio-platform)
 
 ---
 
-## ⚛️ Quantum Image Processing
+### ⚛️ Quantum Image Processing
 
-A research-oriented project exploring quantum image morphological operations for image restoration and enhancement.
+Research-oriented work exploring quantum image morphological operations for image restoration and enhancement.
 
-**Technology**
+**Stack:** `Python` · `Qiskit` · `OpenCV` · `PIL`
 
-`Qiskit` · `Python` · `PIL` · `OpenCV` · `Matplotlib`
-
-🔗 **Repository:**
-https://github.com/Souvik-Pramanik/Quantum-Image-Processing
+[View repository](https://github.com/Souvik-Pramanik/Quantum-Image-Processing)
 
 ---
 
-## 🛡️ Carnage
+### 🛡️ Carnage
 
-A cross-platform port-scanning and network automation project.
+Network-oriented engineering project exploring port scanning and automation.
 
-**Technology**
+**Stack:** `Python` · `Networking` · `Automation`
 
-`Python` · `Networking` · `Automation`
-
-🔗 **Repository:**
-https://github.com/Souvik-Pramanik/Carnage
+[View repository](https://github.com/Souvik-Pramanik/Carnage)
 
 ---
 
-## 🧠 Face Mask Detection
+### 🤖 Face Mask Detection
 
-A computer-vision project exploring real-time face-mask detection and mobile deployment.
+Computer-vision application exploring real-time machine-learning inference and mobile deployment.
 
-**Technology**
+**Stack:** `Kotlin` · `CameraX` · `TensorFlow Lite`
 
-`Python` · `TensorFlow` · `TensorFlow Lite` · `OpenCV` · `Kotlin` · `CameraX`
-
-🔗 **Repository:**
-https://github.com/Souvik-Pramanik/Android-FaceMask-Detection_FDM_V2
+[View repository](https://github.com/Souvik-Pramanik/Android-FaceMask-Detection_FDM_V2)
 
 ---
 
-## 💬 Quote Of The Day
+### 💬 Quote Of The Day
 
-A web application demonstrating API integration, frontend development and deployment workflows.
+Web application demonstrating frontend development, API integration and deployment workflows.
 
-**Technology**
+**Stack:** `HTML` · `CSS` · `JavaScript` · `Node.js` · `Express`
 
-`HTML` · `CSS` · `JavaScript` · `Node.js` · `Express`
-
-🔗 **Repository:**
-https://github.com/Souvik-Pramanik/Quote-Of-The-Day
+[View repository](https://github.com/Souvik-Pramanik/Quote-Of-The-Day)
 
 ---
 
-# `07 / GITHUB ACTIVITY`
+# `07 // GITHUB ACTIVITY`
 
 <div align="center">
 
-### CONTRIBUTION GRAPH
+### Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik-Pramanik&theme=github-compact&hide_border=true&area=true&custom_title=Souvik%20Pramanik%20%E2%80%94%20Contribution%20Activity" width="100%"/>
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Souvik-Pramanik&theme=github-compact&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity">
 
 <br>
 
-<div align="center">
+### GitHub Statistics
 
-### GITHUB STATISTICS
-
-<img src="https://github-readme-stats.vercel.app/api?username=Souvik-Pramanik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&custom_title=Engineering%20Activity" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=Souvik-Pramanik&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true" alt="GitHub Statistics">
 
 <br>
 
-<div align="center">
+### Language Distribution
 
-### LANGUAGE DISTRIBUTION
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Pramanik&layout=compact&langs_count=10&count_private=true&hide_border=true&custom_title=Technology%20Distribution" />
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Souvik-Pramanik&layout=compact&langs_count=10&hide_border=true" alt="GitHub Language Distribution">
 
 <br>
 
-<div align="center">
+### Contribution Streak
 
-### CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com?user=Souvik-Pramanik&hide_border=true&mode=weekly" />
+<img src="https://streak-stats.demolab.com?user=Souvik-Pramanik&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-# `08 / DEVELOPMENT SIGNALS`
+# `08 // ENGINEERING SIGNALS`
 
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│                         GITHUB SIGNALS                             │
-│                                                                    │
-│   COMMITS          Continuous implementation                       │
-│   REPOSITORIES     Experiments & engineering projects              │
-│   PULL REQUESTS    Collaboration & delivery                        │
-│   ISSUES           Problem solving                                 │
-│   DISCUSSIONS      Technical participation                         │
-│   CONTRIBUTIONS    Long-term engineering activity                  │
-│   ACHIEVEMENTS     GitHub milestones                               │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+┌─────────────────────────────────────────────────────────────┐
+│                   ENGINEERING SIGNALS                       │
+├─────────────────────────────────────────────────────────────┤
+│                                                             │
+│  COMMITS        → Implementation activity                   │
+│  REPOSITORIES   → Engineering projects                      │
+│  PULL REQUESTS  → Collaboration & delivery                  │
+│  ISSUES         → Problem solving                           │
+│  STARS          → Community interest                        │
+│  FORKS          → Reuse & experimentation                   │
+│  CONTRIBUTIONS  → Long-term GitHub activity                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-### Native GitHub Activity
+For the complete native activity timeline and contribution history:
 
-For the complete contribution calendar, activity timeline, achievements and repository activity:
-
-**→ https://github.com/Souvik-Pramanik**
+[Open GitHub Profile](https://github.com/Souvik-Pramanik)
 
 ---
 
-# `09 / CURRENTLY EXPLORING`
+# `09 // CURRENTLY EXPLORING`
 
 ```text
-☸  Kubernetes
-🏗  Terraform
-⚙️  Ansible
+☸   Kubernetes
+🏗   Terraform
+⚙️   Ansible
 📊  Prometheus
 📈  Grafana
 🔐  DevSecOps
-☁️  Advanced Cloud Architecture
+☁️   Advanced Cloud Architecture
 🔄  Advanced CI/CD
 ```
 
-The objective is to progressively move from:
+---
+
+# `10 // ENGINEERING PRINCIPLES`
+
+**01 — AUTOMATE**
+Remove repetitive operational work.
+
+**02 — REPRODUCE**
+Infrastructure and environments should be repeatable.
+
+**03 — OBSERVE**
+Production systems need meaningful telemetry.
+
+**04 — SECURE**
+Security belongs inside the delivery lifecycle.
+
+**05 — SIMPLIFY**
+Complexity should have a reason to exist.
+
+**06 — IMPROVE**
+Every deployment, failure and experiment should improve the system.
+
+---
+
+# `11 // BEYOND DEVOPS`
+
+My broader technical work has included:
+
+`Backend Development` · `Machine Learning` · `Computer Vision` · `Quantum Computing` · `AI Systems` · `Embedded Systems` · `IoT` · `Mobile Development` · `Networking`
+
+These areas provide a broader understanding of how **applications, infrastructure, data and hardware interact as complete systems**.
+
+---
+
+# `12 // ENGINEERING ROADMAP`
 
 ```text
-APPLICATION
-     ↓
-CONTAINER
-     ↓
-PIPELINE
-     ↓
-INFRASTRUCTURE
-     ↓
-ORCHESTRATION
-     ↓
-OBSERVABILITY
-     ↓
-RELIABILITY
+CLOUD
+  │
+  ├─────────────┐
+  ▼             ▼
+DEVOPS       AUTOMATION
+  │             │
+  └──────┬──────┘
+         ▼
+    KUBERNETES
+         │
+         ▼
+       IaC
+         │
+         ▼
+  OBSERVABILITY
+         │
+         ▼
+    DEVSECOPS
+         │
+         ▼
+PRODUCTION SYSTEMS
 ```
 
 ---
 
-# `10 / ENGINEERING PRINCIPLES`
-
-### `01 — AUTOMATE`
-
-If a task is repetitive, look for an opportunity to automate it.
-
-### `02 — REPRODUCE`
-
-Infrastructure and environments should be repeatable rather than manually reconstructed.
-
-### `03 — OBSERVE`
-
-Systems should expose enough information to understand their behavior.
-
-### `04 — SECURE`
-
-Security should be incorporated into development and delivery workflows.
-
-### `05 — SIMPLIFY`
-
-Prefer understandable systems over unnecessary complexity.
-
-### `06 — IMPROVE`
-
-Every deployment, failure and experiment should provide a path toward a better system.
-
----
-
-# `11 / OTHER ENGINEERING INTERESTS`
-
-Beyond DevOps and cloud engineering, my technical work and experiments have included:
-
-* Backend engineering
-* Web application development
-* Machine Learning
-* Computer Vision
-* Quantum Computing
-* AI-assisted applications
-* Embedded systems
-* IoT
-* Mobile application development
-* Networking
-
-These projects provide a broader perspective on how **applications, infrastructure, data and hardware interact as complete systems**.
-
----
-
-# `12 / CONNECT`
+# `13 // CONNECT`
 
 <div align="center">
 
-### BUILD SOMETHING USEFUL.
+### `BUILD • AUTOMATE • DEPLOY • OBSERVE • IMPROVE`
 
 <br>
 
 <a href="https://github.com/Souvik-Pramanik">
-<img src="https://img.shields.io/badge/GitHub-Souvik--Pramanik-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-Souvik--Pramanik-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/nukebyte/">
-<img src="https://img.shields.io/badge/LinkedIn-Souvik%20Pramanik-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Nukebyte-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
 <a href="https://souvik-pramanik.github.io/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=google-chrome&logoColor=white">
+  <img src="https://img.shields.io/badge/Portfolio-Live-111827?style=for-the-badge&logo=googlechrome" alt="Portfolio">
 </a>
 
 <br><br>
 
 ```text
-BUILD → AUTOMATE → DEPLOY → OBSERVE → IMPROVE
+SYSTEM STATUS   : ONLINE
+PROFILE VERSION : 2.1
+TELEMETRY       : AUTOMATED
 ```
-
-<br>
 
 **© Souvik Pramanik**
 
