@@ -241,84 +241,12 @@
         font-family="monospace"
         font-size="14"
         fill="#F0F6FC">
-        devops-portfolio-platform
-      </text>
-
-      <text
-        x="500"
-        y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#8B949E">
-        HTML
-      </text>
-
-      <text
-        x="700"
-        y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#D29922">
-        ★ 0
-      </text>
-
-      <text
-        x="810"
-        y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#A371F7">
-        ⑂ 0
-      </text>
-    
-      <text
-        x="70"
-        y="443"
-        font-family="monospace"
-        font-size="14"
-        fill="#F0F6FC">
-        demo-con
-      </text>
-
-      <text
-        x="500"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#8B949E">
-        Unknown
-      </text>
-
-      <text
-        x="700"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#D29922">
-        ★ 0
-      </text>
-
-      <text
-        x="810"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#A371F7">
-        ⑂ 0
-      </text>
-    
-      <text
-        x="70"
-        y="481"
-        font-family="monospace"
-        font-size="14"
-        fill="#F0F6FC">
         Souvik-Pramanik
       </text>
 
       <text
         x="500"
-        y="481"
+        y="405"
         font-family="monospace"
         font-size="12"
         fill="#8B949E">
@@ -327,11 +255,83 @@
 
       <text
         x="700"
-        y="481"
+        y="405"
         font-family="monospace"
         font-size="12"
         fill="#D29922">
         ★ 1
+      </text>
+
+      <text
+        x="810"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="443"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        devops-portfolio-platform
+      </text>
+
+      <text
+        x="500"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        HTML
+      </text>
+
+      <text
+        x="700"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
+      </text>
+
+      <text
+        x="810"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="481"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        demo-con
+      </text>
+
+      <text
+        x="500"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        Unknown
+      </text>
+
+      <text
+        x="700"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
       </text>
 
       <text
@@ -532,7 +532,7 @@
     font-size="10"
     fill="#3FB950">
 
-    ● AUTOMATED · 2026-09-23T04:50:10.123Z
+    ● AUTOMATED · 2026-09-24T04:57:42.617Z
 
   </text>
 
