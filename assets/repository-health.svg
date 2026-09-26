@@ -55,7 +55,7 @@
     text-anchor="end"
     font-family="monospace"
   >
-    25 ACTIVE REPOSITORIES
+    26 ACTIVE REPOSITORIES
   </text>
 
   <rect
@@ -158,7 +158,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >devops-portfolio-platform</text>
+        >smart-photobatch</text>
 
         <text
           x="500"
@@ -172,20 +172,20 @@
         <text
           x="610"
           y="162"
-          fill="#00ff9d"
+          fill="#555b66"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >✓</text>
+        >—</text>
 
         <text
           x="720"
           y="162"
-          fill="#00ff9d"
+          fill="#555b66"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >✓</text>
+        >—</text>
 
         <text
           x="830"
@@ -208,11 +208,11 @@
         <text
           x="1080"
           y="162"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
       
         <line
           x1="36"
@@ -298,7 +298,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >demo-con</text>
+        >devops-portfolio-platform</text>
 
         <text
           x="500"
@@ -312,38 +312,38 @@
         <text
           x="610"
           y="266"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
 
         <text
           x="720"
           y="266"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
 
         <text
           x="830"
           y="266"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
 
         <text
           x="960"
           y="266"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
 
         <text
           x="1080"
@@ -368,7 +368,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >demo-school-website</text>
+        >demo-con</text>
 
         <text
           x="500"
@@ -438,7 +438,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >souvik-pramanik.github.io</text>
+        >demo-school-website</text>
 
         <text
           x="500"
@@ -479,11 +479,11 @@
         <text
           x="960"
           y="370"
-          fill="#00ff9d"
+          fill="#555b66"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >✓</text>
+        >—</text>
 
         <text
           x="1080"
@@ -508,7 +508,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >hand-gesture-controlled-computer</text>
+        >souvik-pramanik.github.io</text>
 
         <text
           x="500"
@@ -578,16 +578,16 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >Birthday-WebApp</text>
+        >hand-gesture-controlled-computer</text>
 
         <text
           x="500"
           y="474"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
 
         <text
           x="610"
@@ -619,20 +619,20 @@
         <text
           x="960"
           y="474"
-          fill="#555b66"
-          font-size="18"
-          text-anchor="middle"
-          font-family="monospace"
-        >—</text>
-
-        <text
-          x="1080"
-          y="474"
           fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
         >✓</text>
+
+        <text
+          x="1080"
+          y="474"
+          fill="#555b66"
+          font-size="18"
+          text-anchor="middle"
+          font-family="monospace"
+        >—</text>
       
         <line
           x1="36"
@@ -648,7 +648,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >cloud_bootcamp_day4</text>
+        >Birthday-WebApp</text>
 
         <text
           x="500"
@@ -698,11 +698,11 @@
         <text
           x="1080"
           y="526"
-          fill="#555b66"
+          fill="#00ff9d"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >—</text>
+        >✓</text>
       
         <line
           x1="36"
@@ -718,16 +718,16 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >HLD-LLD</text>
+        >cloud_bootcamp_day4</text>
 
         <text
           x="500"
           y="578"
-          fill="#00ff9d"
+          fill="#555b66"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >✓</text>
+        >—</text>
 
         <text
           x="610"
@@ -768,11 +768,11 @@
         <text
           x="1080"
           y="578"
-          fill="#00ff9d"
+          fill="#555b66"
           font-size="18"
           text-anchor="middle"
           font-family="monospace"
-        >✓</text>
+        >—</text>
       
         <line
           x1="36"
@@ -788,7 +788,7 @@
           fill="#e6edf3"
           font-size="14"
           font-family="monospace"
-        >Quantum-Image-Processing</text>
+        >HLD-LLD</text>
 
         <text
           x="500"
@@ -860,7 +860,7 @@
     font-size="11"
     font-family="monospace"
   >
-    README 19/25
+    README 20/26
   </text>
 
   <text
@@ -870,7 +870,7 @@
     font-size="11"
     font-family="monospace"
   >
-    CI/CD 4/25
+    CI/CD 4/26
   </text>
 
   <text
@@ -880,7 +880,7 @@
     font-size="11"
     font-family="monospace"
   >
-    DOCKER 2/25
+    DOCKER 2/26
   </text>
 
   <text
@@ -890,7 +890,7 @@
     font-size="11"
     font-family="monospace"
   >
-    TESTS 4/25
+    TESTS 5/26
   </text>
 
   <text
@@ -900,7 +900,7 @@
     font-size="11"
     font-family="monospace"
   >
-    PACKAGE 10/25
+    PACKAGE 11/26
   </text>
 
   <text
@@ -910,7 +910,7 @@
     font-size="11"
     font-family="monospace"
   >
-    LICENSE 15/25
+    LICENSE 16/26
   </text>
 
   <text
@@ -921,7 +921,7 @@
     text-anchor="end"
     font-family="monospace"
   >
-    UPDATED 2026-09-25
+    UPDATED 2026-09-26
   </text>
 
 </svg>
