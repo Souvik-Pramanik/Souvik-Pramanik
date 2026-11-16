@@ -113,7 +113,7 @@
     font-weight="bold"
     fill="#58A6FF">
 
-    26
+    27
 
   </text>
 
@@ -241,84 +241,12 @@
         font-family="monospace"
         font-size="14"
         fill="#F0F6FC">
-        Souvik-Pramanik
+        loreto-reunion-2026
       </text>
 
       <text
         x="500"
         y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#8B949E">
-        JavaScript
-      </text>
-
-      <text
-        x="700"
-        y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#D29922">
-        ★ 1
-      </text>
-
-      <text
-        x="810"
-        y="405"
-        font-family="monospace"
-        font-size="12"
-        fill="#A371F7">
-        ⑂ 0
-      </text>
-    
-      <text
-        x="70"
-        y="443"
-        font-family="monospace"
-        font-size="14"
-        fill="#F0F6FC">
-        smart-photobatch
-      </text>
-
-      <text
-        x="500"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#8B949E">
-        JavaScript
-      </text>
-
-      <text
-        x="700"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#D29922">
-        ★ 0
-      </text>
-
-      <text
-        x="810"
-        y="443"
-        font-family="monospace"
-        font-size="12"
-        fill="#A371F7">
-        ⑂ 0
-      </text>
-    
-      <text
-        x="70"
-        y="481"
-        font-family="monospace"
-        font-size="14"
-        fill="#F0F6FC">
-        devops-portfolio-platform
-      </text>
-
-      <text
-        x="500"
-        y="481"
         font-family="monospace"
         font-size="12"
         fill="#8B949E">
@@ -327,6 +255,78 @@
 
       <text
         x="700"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 0
+      </text>
+
+      <text
+        x="810"
+        y="405"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="443"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        Souvik-Pramanik
+      </text>
+
+      <text
+        x="500"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        JavaScript
+      </text>
+
+      <text
+        x="700"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#D29922">
+        ★ 1
+      </text>
+
+      <text
+        x="810"
+        y="443"
+        font-family="monospace"
+        font-size="12"
+        fill="#A371F7">
+        ⑂ 0
+      </text>
+    
+      <text
+        x="70"
+        y="481"
+        font-family="monospace"
+        font-size="14"
+        fill="#F0F6FC">
+        smart-photobatch
+      </text>
+
+      <text
+        x="500"
+        y="481"
+        font-family="monospace"
+        font-size="12"
+        fill="#8B949E">
+        JavaScript
+      </text>
+
+      <text
+        x="700"
         y="481"
         font-family="monospace"
         font-size="12"
@@ -349,7 +349,7 @@
         font-family="monospace"
         font-size="14"
         fill="#F0F6FC">
-        demo-con
+        devops-portfolio-platform
       </text>
 
       <text
@@ -358,7 +358,7 @@
         font-family="monospace"
         font-size="12"
         fill="#8B949E">
-        Unknown
+        HTML
       </text>
 
       <text
@@ -410,7 +410,7 @@
         font-family="monospace"
         font-size="13"
         fill="#58A6FF">
-        8 repositories
+        9 repositories
       </text>
     
       <text
@@ -532,7 +532,7 @@
     font-size="10"
     fill="#3FB950">
 
-    ● AUTOMATED · 2026-11-15T06:41:40.252Z
+    ● AUTOMATED · 2026-11-16T06:39:01.437Z
 
   </text>
 
